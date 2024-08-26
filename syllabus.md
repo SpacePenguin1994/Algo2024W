@@ -17,14 +17,15 @@ description: >-
 ---
 ## 概览
 
-In this course, our aim is to present various algorithms for numerous 'standard' algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study.
+在本课程中，我们的目标是为众多“标准”算法问题展示各种算法。我们将讲解算法设计技巧以及算法分析方法。此外，鉴于本课程为高年级本科生设计，我们还将介绍算法研究中的一些前沿分支领域，为进一步学习提供可能的方向。
 
-By the end of the course, students will learn:
--  the application of fundamental algorithm design techniques.
--  the main theoretical tools used in the analysis of algorithms
--  the ability for desigining algorithms for some algorithmic problems.
--  the ability for analysing given algorithms.
--  an outline of the notable subfields within algorithmic research.
+在本课程结束后，学生们将学会：
+
+-  基本的算法设计技巧及其应用
+-  算法分析中使用的主要理论工具。
+-  针对特定问题设计算法的能力
+-  分析给定算法复杂性的能力
+-  对算法的前沿分支领域的基本了解。
 
 
 
@@ -43,13 +44,13 @@ By the end of the course, students will learn:
 
 ### 编程作业
 
-The **PA**{:.label.label-blue} will also be released once a week. We will use the problem on [Leet Code](https://leetcode.cn/).   Please submit the solution via the email <qzyang@shnu.edu.cn>. Here is a sample submission [sample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/sample.pdf).
+编程作业**PA**{:.label.label-blue}也将每周发布一次。 我们将选取[Leet Code](https://leetcode.cn/)上的题目.  请将作业提交到邮箱 <qzyang@shnu.edu.cn>. 这里提供了一个提交示例 [示例](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/sample.pdf).
 
-After each program assignment, the instructor will randomly select one student to present their solutions to the class.
+每次编程作业提交后，教师将随机选择一名学生请他来分享自己的解决思路，也欢迎同学自主报名分享，**主动报名并分享的学生将获得总评1分的奖励分(每位同学限一次)**。
 
 **请注意，迟交作业将受到25%的成绩惩罚。**
 
-### Final Exam
+### 期末考试
 
 本课程只有一次期末考试，有关期末考试的信息将在之后再公布。
 
@@ -57,15 +58,15 @@ After each program assignment, the instructor will randomly select one student t
 
 TBA.
 
-### Grades
+### 分数计算
 
-Students' grades**Grade**{:.label.label-green} will be determined by the following components:
--  Homework**HW**{:.label.label-red},
--  Program Assignments**PA**{:.label.label-blue} ,
--  Final Exam**Exam**{:.label.label-green},
--  Bonus Points**Bonus**{:.label.label-green}.
+学生的最终成绩**Grade**{:.label.label-green}将由下列四部分决定：
+-  课程作业**HW**{:.label.label-red},
+-  编程作业**PA**{:.label.label-blue} ,
+-  期末考试**Exam**{:.label.label-green},
+-  奖励分**Bonus**{:.label.label-green}.
 
-The final grade will be calculated using the following equation:
+最终的成绩是上述四部分的加权平均：
 
 : **Grade**{:.label.label-green} = MIN{25%* **HW**{:.label.label-red} + 15%* **PA**{:.label.label-blue}+ 60%* **Exam**{:.label.label-green} +5%* **Bonus**{:.label.label-green} ,100}
 
@@ -78,7 +79,8 @@ The final grade will be calculated using the following equation:
 
 **LeetCode**
 
-[Leet Code](https://leetcode.cn/) is an online platform that offers a wide array of coding challenges and problems, primarily focused on helping individuals improve their programming and problem-solving skills. We will use the website to complete our program assignments.
+[Leet Code](https://leetcode.cn/)是一个提供大量编程挑战和问题的在线平台，主要旨在帮助个人提高编程和解决问题的能力。我们将使用该网站来完成我们的程序作业。
+
 
 **参考资料**
 

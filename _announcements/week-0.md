@@ -1,7 +1,7 @@
 ---
-title: Week 0 Announcement
+title: 第0周课程通知
 week: 0
-date: 2023-08-01
+date: 2024-08-26
 ---
 
-Welcome to the course of Algorithms!
+欢迎来到《算法设计与分析》课程！

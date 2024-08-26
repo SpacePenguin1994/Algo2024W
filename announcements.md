@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Announcements
+title: 课程通知
 description: A feed containing all of the class announcements.
 ---
 
-# Announcements
+# 课程通知
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}

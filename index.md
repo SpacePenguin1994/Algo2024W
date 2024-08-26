@@ -19,9 +19,9 @@ seo:
 
 ## 关于本课程
 
-Turing Award awardee [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) once said, "Computer Science is the study of algorithms". Even though the speed of computers is now so fast that we might even question whether Moore's Law still holds true, the significance of an efficient algorithm remains essential for us. 
+图灵奖获得者[高德纳(Knuth)](https://en.wikipedia.org/wiki/Donald_Knuth)曾说过：“计算机科学是研究算法的学科。” 尽管如今计算机的发展速度越来越快，但高效算法的重要性依然不可忽视。
 
-Therefore, in this course, we aim to present various algorithms for numerous 'standard' algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. By the end of the course, students will attain proficiency in applying fundamental algorithm design techniques and will become acquainted with the key theoretical instruments utilized in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study.
+因此，在本课程中，我们将为众多“标准”算法问题展示各种算法。我们将讲解算法设计技巧以及算法分析方法。课程结束后，学生将熟练掌握基本的算法设计技巧，并熟悉算法分析中使用的关键理论工具。此外，鉴于本课程为高年级本科生设计，我们还将介绍算法研究中的一些前沿分支领域，为进一步学习提供可能的方向。
 
 关于课程介绍的更多信息和课程要求请关注 [课程信息](syllabus.md)
 

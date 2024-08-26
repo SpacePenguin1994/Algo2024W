@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Schedule
+title: 课程安排
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
-This schedule outlines all topics of the course and has links to all lecture slides, both in chinese and english.
+# 课程安排
+本页面包含了本课程的课程安排，包括课程课件、课程作业以及课程作业的解答。
 
 {% for module in site.modules %}
 {{ module }}

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Syllabus
+title: 课程信息
 description: >-
-    Course policies and information.
+    课程大纲与政策
 ---
 
-# Syllabus
+# 课程大纲与政策
 {:.no_toc}
 
-## Table of contents
+## 目录
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
-## Overview
+## 概览
 
 In this course, our aim is to present various algorithms for numerous 'standard' algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study.
 
@@ -27,33 +27,33 @@ By the end of the course, students will learn:
 -  an outline of the notable subfields within algorithmic research.
 
 
-## Policies
 
-### Cheating
+## 课程政策
 
-You are encouraged to collaborate with your classmates or utilize online resources for any homework, program assignments, or bonus points. Actually, you can also ask for the instructor. **However, directly copying and pasting code or answers is prohibited.** If I ask you how your code works or why your answers are correct 
-and you do not know, it will be evident that you have copied it. Don’t take the risk. 
+### 关于作弊
 
-### Homework
+这门课鼓励大家互相讨论，并从网上获取相关资源来完成作业。当然你也可以直接来询问老师。 **然而，直接复制粘贴代码或者答案是被禁止的。** 如果我询问时无法解释清楚你的作业是如何完成的，那我便会判断你是抄袭的。不要冒这个风险。
 
-The **HW**{:.label.label-red}, will be released once a week. The main content is the design of algorithms for certain problems and the corresponding algorithm analysis. Please submit the solution via the email <qzyang@shnu.edu.cn>.
+### 课程作业
 
-**Please note that late submissions will incur a 25% penalty.**
+课程作业**HW**{:.label.label-red}将每周发布一次。 
+
+**请注意，迟交作业将受到25%的成绩惩罚。**
 
 
-### Program Assignments
+### 编程作业
 
 The **PA**{:.label.label-blue} will also be released once a week. We will use the problem on [Leet Code](https://leetcode.cn/).   Please submit the solution via the email <qzyang@shnu.edu.cn>. Here is a sample submission [sample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/sample.pdf).
 
 After each program assignment, the instructor will randomly select one student to present their solutions to the class.
 
-**Please note that late submissions will incur a 25% penalty.**
+**请注意，迟交作业将受到25%的成绩惩罚。**
 
 ### Final Exam
 
-This course will have only one exam, the final exam. The more information will be decided later.
+本课程只有一次期末考试，有关期末考试的信息将在之后再公布。
 
-### Bonus Points
+### 奖励分数
 
 TBA.
 
@@ -70,18 +70,19 @@ The final grade will be calculated using the following equation:
 : **Grade**{:.label.label-green} = MIN{25%* **HW**{:.label.label-red} + 15%* **PA**{:.label.label-blue}+ 60%* **Exam**{:.label.label-green} +5%* **Bonus**{:.label.label-green} ,100}
 
 
-## Resources
 
-This course website, [Algorithms](../), will be your one-stop resource for the syllabus, schedule and homework links. 
+## 课程资源
+
+本网站[算法设计与分析](../)将包含本课程所需的所有课程资源，包括课程通知、课程课件、课程作业以及课程作业的解答。
 
 
 **LeetCode**
 
 [Leet Code](https://leetcode.cn/) is an online platform that offers a wide array of coding challenges and problems, primarily focused on helping individuals improve their programming and problem-solving skills. We will use the website to complete our program assignments.
 
-**Reference**
+**参考资料**
 
-Here're some recommended books：
+下面是一些推荐的书籍：
 
 - [1]  M.H. Alsuwaiyel. [*Algorithms: design techniques and analysis*](https://books.google.com/books?hl=zh-CN&lr=&id=h7lTEAAAQBAJ&oi=fnd&pg=PR7&dq=Algorithms:+design+techniques+and+analysis&ots=g4TAKwqlgH&sig=42c0mAO3KVTB_GnpLSgnqPXcu7w#v=onepage&q=Algorithms%3A%20design%20techniques%20and%20analysis&f=false).
 - [2]  S. Dasgupta, C. H. Papadimitriou, U. V. Vazirani. [*Algorithms*](https://www.google.com/books/edition/Algorithms/3sCxQgAACAAJ?hl=zh-CN&bshm=rimc/1)

@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Home
+title: 主页
 nav_exclude: true
 seo:
-  type: Course
-  name: Algorithms, SHNU
+  type: 课程
+  name: 算法设计与分析
 ---
 
 # {{ site.tagline }}
@@ -17,49 +17,42 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %} -->
 
-## About the Class
+## 关于本课程
 
 Turing Award awardee [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) once said, "Computer Science is the study of algorithms". Even though the speed of computers is now so fast that we might even question whether Moore's Law still holds true, the significance of an efficient algorithm remains essential for us. 
 
 Therefore, in this course, we aim to present various algorithms for numerous 'standard' algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. By the end of the course, students will attain proficiency in applying fundamental algorithm design techniques and will become acquainted with the key theoretical instruments utilized in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study.
 
-Enjoy the class!
+关于课程介绍的更多信息和课程要求请关注 [课程信息](syllabus.md)
 
-See the [Syllabus page](syllabus.md) for more details on course policies.
+## 课程基本信息
 
-## General Information
+**主讲人:** [杨启哲](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
 
-**Instructor:** [Qizhe Yang](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
-
-**Time and Location:** &ensp;&nbsp;9:45 a.m.- 11:15 a.m. &nbsp;Every Monday in Week 1-16, <font color="#dd0000"> 奉贤3教楼308</font> 
- <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，&emsp; 奉贤3教楼312
-
- For more details about the class, see the [Schedule page](schedule.md).
-
-## Final Exam
-
-The final exam is scheduled for **January 3, 2024, from 10:45 a.m. to 12:15 a.m.** , and will be held in <font color="#dd0000"> 奉贤3教楼222</font> . Please note that it will be a **closed-book** exam.
+**课程时间地点:** &ensp;&nbsp;9:45 a.m.- 11:15 a.m. &emsp; 每周三(1-16周), 奉贤3教楼401
+ <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;&nbsp;13:00 p.m.- 14:30 p.m. &emsp;每周五(1-8周), 奉贤3教楼401
 
 
-## Course Feedback
+ 更多信息可以关注 [课程安排](schedule.md).
 
-We have set up a course questionnaire:
 
-- [《算法设计与分析》课程调查问卷](https://www.wjx.cn/vm/eDmAYfp.aspx#)
+## 课程反馈
 
-Everyone is welcome to submit his/her questions or suggestions about this course.
+我们建立了一个长期的课程反馈问卷:
 
-**Updated in Dec 24, 2023**
+- [《算法设计与分析》课程调查问卷](https://www.wjx.cn/vm/tU88Sco.aspx)
 
-Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course:
+欢迎大家提出关于本课程的问题或建议。
 
-- [《算法设计与分析》完课调查问卷](https://www.wjx.cn/vm/YfWr24n.aspx# )
 
-The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you!
 
-# Announcements
+## 课程通知
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
+
+## 之前的课程资料
+
+- [2023年秋季学期](https://www.algo2023w.spacepenguin.com.cn)

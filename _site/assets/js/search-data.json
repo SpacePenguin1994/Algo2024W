@@ -7,130 +7,142 @@
   },"1": {
     "doc": "课程通知",
     "title": "第1周课程通知",
-    "content": "Sep 11 &middot; 0 min read 第一周的平时作业和编程作业已经发布，请大家及时在课程安排中查看。 . | 此次平时作业发布了两个版本，一个是不留空的版本，一个是留空的版本，题目内容并无区别，请大家选择自己喜欢的版本完成。 | . 提前祝大家中秋节快乐！不要忘记完成作业哦~ ^_^ . ",
+    "content": "Sep 11 &middot; 0 min read 在第一周的平时作业的第1题中： . | 数组$A[1,\\ldots,2000]$中的$2000$应为$500$，即数组一共有$500$个元素。 | . 请大家注意修改。最新版的作业已经更改这一笔误。感谢同学们的反馈！ . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"2": {
+    "doc": "课程通知",
+    "title": "第1周课程通知",
+    "content": "Sep 11 &middot; 0 min read 第一周的平时作业和编程作业已经发布，请大家及时在课程安排中查看。 . | 此次平时作业发布了两个版本，一个是不留空的版本，一个是留空的版本，题目内容并无区别，请大家选择自己喜欢的版本完成。 | . 提前祝大家中秋节快乐！不要忘记完成作业哦~ ^_^ . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"3": {
     "doc": "课程通知",
     "title": "第0周课程通知",
     "content": "Aug 26 &middot; 0 min read 欢迎来到《算法设计与分析》课程！ . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"3": {
+  },"4": {
     "doc": "主页",
     "title": "《算法设计与分析》2024秋季学期",
     "content": "上海师范大学《算法设计与分析》(080931110861.01) . ",
     "url": "http://localhost:4000/#%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%902024%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F",
     "relUrl": "/#算法设计与分析2024秋季学期"
-  },"4": {
+  },"5": {
     "doc": "主页",
     "title": "第1周课程通知",
-    "content": "Sep 11 &middot; 0 min read 第一周的平时作业和编程作业已经发布，请大家及时在课程安排中查看。 . | 此次平时作业发布了两个版本，一个是不留空的版本，一个是留空的版本，题目内容并无区别，请大家选择自己喜欢的版本完成。 | . 提前祝大家中秋节快乐！不要忘记完成作业哦~ ^_^ . [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "content": "Sep 11 &middot; 0 min read 在第一周的平时作业的第1题中： . | 数组$A[1,\\ldots,2000]$中的$2000$应为$500$，即数组一共有$500$个元素。 | . 请大家注意修改。最新版的作业已经更改这一笔误。感谢同学们的反馈！ . [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"5": {
+  },"6": {
     "doc": "主页",
     "title": "关于本课程",
     "content": "图灵奖获得者高德纳(Knuth)曾说过：“计算机科学是研究算法的学科。” 尽管如今计算机的发展速度越来越快，但高效算法的重要性依然不可忽视。 . 因此，在本课程中，我们将为众多“标准”算法问题展示各种算法。我们将讲解算法设计技巧以及算法分析方法。课程结束后，学生将熟练掌握基本的算法设计技巧，并熟悉算法分析中使用的关键理论工具。此外，鉴于本课程为高年级本科生设计，我们还将介绍算法研究中的一些前沿分支领域，为进一步学习提供可能的方向。 . 关于课程介绍的更多信息和课程要求请关注 课程信息 . ",
     "url": "http://localhost:4000/#%E5%85%B3%E4%BA%8E%E6%9C%AC%E8%AF%BE%E7%A8%8B",
     "relUrl": "/#关于本课程"
-  },"6": {
+  },"7": {
     "doc": "主页",
     "title": "课程基本信息",
     "content": "主讲人: 杨启哲, qzyang(at)shnu.edu.cn . 课程时间地点:   9:45 a.m.- 11:15 a.m.   每周三(1-16周), 奉贤3教楼401          13:00 p.m.- 14:30 p.m.  每周五(1-8周), 奉贤3教楼401 . 更多信息可以关注 课程安排. ",
     "url": "http://localhost:4000/#%E8%AF%BE%E7%A8%8B%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
     "relUrl": "/#课程基本信息"
-  },"7": {
+  },"8": {
     "doc": "主页",
     "title": "课程反馈",
     "content": "我们建立了一个长期的课程反馈问卷: . | 《算法设计与分析》课程调查问卷 | . 欢迎大家提出关于本课程的问题或建议。 . ",
     "url": "http://localhost:4000/#%E8%AF%BE%E7%A8%8B%E5%8F%8D%E9%A6%88",
     "relUrl": "/#课程反馈"
-  },"8": {
+  },"9": {
     "doc": "主页",
     "title": "课程通知",
     "content": " ",
     "url": "http://localhost:4000/#%E8%AF%BE%E7%A8%8B%E9%80%9A%E7%9F%A5",
     "relUrl": "/#课程通知"
-  },"9": {
+  },"10": {
+    "doc": "主页",
+    "title": "第1周课程通知",
+    "content": "Sep 11 &middot; 0 min read 在第一周的平时作业的第1题中： . | 数组$A[1,\\ldots,2000]$中的$2000$应为$500$，即数组一共有$500$个元素。 | . 请大家注意修改。最新版的作业已经更改这一笔误。感谢同学们的反馈！ . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"11": {
     "doc": "主页",
     "title": "第1周课程通知",
     "content": "Sep 11 &middot; 0 min read 第一周的平时作业和编程作业已经发布，请大家及时在课程安排中查看。 . | 此次平时作业发布了两个版本，一个是不留空的版本，一个是留空的版本，题目内容并无区别，请大家选择自己喜欢的版本完成。 | . 提前祝大家中秋节快乐！不要忘记完成作业哦~ ^_^ . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"10": {
+  },"12": {
     "doc": "主页",
     "title": "第0周课程通知",
     "content": "Aug 26 &middot; 0 min read 欢迎来到《算法设计与分析》课程！ . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"11": {
+  },"13": {
     "doc": "主页",
     "title": "之前的课程资料",
     "content": ". | 2023年秋季学期 | . ",
     "url": "http://localhost:4000/#%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99",
     "relUrl": "/#之前的课程资料"
-  },"12": {
+  },"14": {
     "doc": "主页",
     "title": "主页",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"13": {
+  },"15": {
     "doc": "课程安排",
     "title": "课程安排",
     "content": "本页面包含了本课程的课程安排，包括课程课件、课程作业以及课程作业的解答。 . ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"14": {
+  },"16": {
     "doc": "课程安排",
     "title": "课程课件",
     "content": "Lec 0 概览(Overview) [slides-zh] Lec 1 算法分析基础(Fundamentals) [slides-zh] Lec 2 归纳法(Induction) [slides-zh] Lec 3 分治法(Divide and Conquer) [slides-zh] ",
     "url": "http://localhost:4000/schedule/#%E8%AF%BE%E7%A8%8B%E8%AF%BE%E4%BB%B6",
     "relUrl": "/schedule/#课程课件"
-  },"15": {
+  },"17": {
     "doc": "课程安排",
     "title": "课程作业",
     "content": "HW 1 HWReleased: Homework #1-不留空版   Homework #1-留空版 PA Released: LeetCode #55-跳跃游戏   (这是一个提交样例: sample.) DUE Sep 18 ",
     "url": "http://localhost:4000/schedule/#%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A",
     "relUrl": "/schedule/#课程作业"
-  },"16": {
+  },"18": {
     "doc": "课程安排",
     "title": "课程作业解答",
     "content": " ",
     "url": "http://localhost:4000/schedule/#%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A%E8%A7%A3%E7%AD%94",
     "relUrl": "/schedule/#课程作业解答"
-  },"17": {
+  },"19": {
     "doc": "课程信息",
     "title": "课程大纲与政策",
     "content": " ",
     "url": "http://localhost:4000/syllabus/#%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2%E4%B8%8E%E6%94%BF%E7%AD%96",
     "relUrl": "/syllabus/#课程大纲与政策"
-  },"18": {
+  },"20": {
     "doc": "课程信息",
     "title": "目录",
     "content": ". | 概览 | 课程政策 . | 关于作弊 | 课程作业 | 编程作业 | 期末考试 | 奖励分数 | 分数计算 | . | 课程资源 | . ",
     "url": "http://localhost:4000/syllabus/#%E7%9B%AE%E5%BD%95",
     "relUrl": "/syllabus/#目录"
-  },"19": {
+  },"21": {
     "doc": "课程信息",
     "title": "概览",
     "content": "在本课程中，我们的目标是为众多“标准”算法问题展示各种算法。我们将讲解算法设计技巧以及算法分析方法。此外，鉴于本课程为高年级本科生设计，我们还将介绍算法研究中的一些前沿分支领域，为进一步学习提供可能的方向。 . 在本课程结束后，学生们将学会： . | 基本的算法设计技巧及其应用 | 算法分析中使用的主要理论工具。 | 针对特定问题设计算法的能力 | 分析给定算法复杂性的能力 | 对算法的前沿分支领域的基本了解。 | . ",
     "url": "http://localhost:4000/syllabus/#%E6%A6%82%E8%A7%88",
     "relUrl": "/syllabus/#概览"
-  },"20": {
+  },"22": {
     "doc": "课程信息",
     "title": "课程政策",
     "content": "关于作弊 . 这门课鼓励大家互相讨论，并从网上获取相关资源来完成作业。当然你也可以直接来询问老师。 然而，直接复制粘贴代码或者答案是被禁止的。 如果我询问时无法解释清楚你的作业是如何完成的，那我便会判断你是抄袭的。不要冒这个风险。 . 课程作业 . 课程作业HW将每周发布一次。 . 请注意，迟交作业将受到25%的成绩惩罚。 . 编程作业 . 编程作业PA也将每周发布一次。 我们将选取Leet Code上的题目. 请将作业提交到邮箱 qzyang@shnu.edu.cn. 这里提供了一个提交示例 示例. 每次编程作业提交后，教师将随机选择一名学生请他来分享自己的解决思路，也欢迎同学自主报名分享，主动报名并分享的学生将获得总评1分的奖励分(每位同学限一次)。 . 请注意，迟交作业将受到25%的成绩惩罚。 . 期末考试 . 本课程只有一次期末考试，有关期末考试的信息将在之后再公布。 . 奖励分数 . TBA. 分数计算 . 学生的最终成绩Grade将由下列四部分决定： . | 课程作业HW, | 编程作业PA , | 期末考试Exam, | 奖励分Bonus. | . 最终的成绩是上述四部分的加权平均： Grade = MIN{25%* HW + 15%* PA+ 60%* Exam +5%* Bonus ,100} . ",
     "url": "http://localhost:4000/syllabus/#%E8%AF%BE%E7%A8%8B%E6%94%BF%E7%AD%96",
     "relUrl": "/syllabus/#课程政策"
-  },"21": {
+  },"23": {
     "doc": "课程信息",
     "title": "课程资源",
     "content": "本网站算法设计与分析将包含本课程所需的所有课程资源，包括课程通知、课程课件、课程作业以及课程作业的解答。 . LeetCode . Leet Code是一个提供大量编程挑战和问题的在线平台，主要旨在帮助个人提高编程和解决问题的能力。我们将使用该网站来完成我们的程序作业。 . 参考资料 . 下面是一些推荐的书籍： . | [1] M.H. Alsuwaiyel. Algorithms: design techniques and analysis. | [2] S. Dasgupta, C. H. Papadimitriou, U. V. Vazirani. Algorithms | [3] T. Cormen, C. Leiserson, R. Rivest, and C. Stein. Introduction to Algorithms | [4] R. Sedgewick, K. Wayne. Algorithms | [5] Jeff Erickson. Algorithms | [6] 王晓东。 计算机算法设计与分析 | [7] 屈婉玲，刘田，张立昂，王捍贫。算法设计与分析 | . ",
     "url": "http://localhost:4000/syllabus/#%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90",
     "relUrl": "/syllabus/#课程资源"
-  },"22": {
+  },"24": {
     "doc": "课程信息",
     "title": "课程信息",
     "content": " ",

@@ -1,9 +1,8 @@
 ---
 title: 课程作业解答
 ---
-<!--
-HW 1
-: **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #1-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw1forCSsol.pdf)  
-: **For Students of EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #1-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw1forEIsol.pdf)  
 
--->
+HW 1
+:  *HW**{: .label .label-red }Released:[Homework #1-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw1sol.pdf)
+
+

@@ -13,7 +13,7 @@
   },"2": {
     "doc": "课程通知",
     "title": "第2周课程通知",
-    "content": "Sep 11 &middot; 0 min read 有两件事需要通知大家： . | 请大家注意，本周五的课程由于新生培训将调整至奉贤2教楼208，请大家注意不要走错教室。 . | 在第一次课件中关于$o$和$\\omega$符号的定义有所错误： . | $o$符号的定义应为：对于任意常数$c&gt;0$，存在常数$n_0&gt;0$，使得对于所有$n\\geq n_0$，有$f(n)&lt;cg(n)$。 | $\\omega$符号的定义应为：对于任意常数$c&gt;0$，存在常数$n_0&gt;0$，使得对于所有$n\\geq n_0$，有$f(n)&gt;cg(n)$。 | . 感谢发现的同学，已经在课件中进行了修改。请大家注意。 . | . ",
+    "content": "Sep 18 &middot; 0 min read 有两件事需要通知大家： . | 请大家注意，本周五的课程由于新生培训将调整至奉贤2教楼208，请大家注意不要走错教室。 . | 在第一次课件中关于$o$和$\\omega$符号的定义有所错误： . | $o$符号的定义应为：对于任意常数$c&gt;0$，存在常数$n_0&gt;0$，使得对于所有$n\\geq n_0$，有$f(n)&lt;cg(n)$。 | $\\omega$符号的定义应为：对于任意常数$c&gt;0$，存在常数$n_0&gt;0$，使得对于所有$n\\geq n_0$，有$f(n)&gt;cg(n)$。 | . 感谢发现的同学，已经在课件中进行了修改。请大家注意。 . | . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"3": {
@@ -79,7 +79,7 @@
   },"13": {
     "doc": "主页",
     "title": "第2周课程通知",
-    "content": "Sep 11 &middot; 0 min read 有两件事需要通知大家： . | 请大家注意，本周五的课程由于新生培训将调整至奉贤2教楼208，请大家注意不要走错教室。 . | 在第一次课件中关于$o$和$\\omega$符号的定义有所错误： . | $o$符号的定义应为：对于任意常数$c&gt;0$，存在常数$n_0&gt;0$，使得对于所有$n\\geq n_0$，有$f(n)&lt;cg(n)$。 | $\\omega$符号的定义应为：对于任意常数$c&gt;0$，存在常数$n_0&gt;0$，使得对于所有$n\\geq n_0$，有$f(n)&gt;cg(n)$。 | . 感谢发现的同学，已经在课件中进行了修改。请大家注意。 . | . ",
+    "content": "Sep 18 &middot; 0 min read 有两件事需要通知大家： . | 请大家注意，本周五的课程由于新生培训将调整至奉贤2教楼208，请大家注意不要走错教室。 . | 在第一次课件中关于$o$和$\\omega$符号的定义有所错误： . | $o$符号的定义应为：对于任意常数$c&gt;0$，存在常数$n_0&gt;0$，使得对于所有$n\\geq n_0$，有$f(n)&lt;cg(n)$。 | $\\omega$符号的定义应为：对于任意常数$c&gt;0$，存在常数$n_0&gt;0$，使得对于所有$n\\geq n_0$，有$f(n)&gt;cg(n)$。 | . 感谢发现的同学，已经在课件中进行了修改。请大家注意。 . | . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },"14": {
@@ -127,7 +127,7 @@
   },"21": {
     "doc": "课程安排",
     "title": "课程作业",
-    "content": "HW 1 HWReleased: Homework #1-不留空版   Homework #1-留空版 PA Released: LeetCode #55-跳跃游戏   (这是一个提交样例: sample.) DUE Sep 18 ",
+    "content": "HW 1 HWReleased: Homework #1-不留空版   Homework #1-留空版 PA Released: LeetCode #55-跳跃游戏   (这是一个提交样例: sample.) DUE Sep 18 HW 2 HWReleased: Homework #2-不留空版   Homework #2-留空版 PA Released: LeetCode #7-整数反转 DUE Sep 25 ",
     "url": "http://localhost:4000/schedule/#%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A",
     "relUrl": "/schedule/#课程作业"
   },"22": {

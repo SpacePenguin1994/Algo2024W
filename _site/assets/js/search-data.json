@@ -133,7 +133,7 @@
   },"22": {
     "doc": "课程安排",
     "title": "课程作业解答",
-    "content": "HW 1 *HW**{: .label .label-red }Released:Homework #1-sol ",
+    "content": "HW 1 HWReleased:Homework #1-sol ",
     "url": "http://localhost:4000/schedule/#%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A%E8%A7%A3%E7%AD%94",
     "relUrl": "/schedule/#课程作业解答"
   },"23": {

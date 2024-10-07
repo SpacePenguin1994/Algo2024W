@@ -36,3 +36,10 @@ Lec 7
 : **最短路径(Shortest Path)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/slides/AlgoLec7-handout.pdf)\]
 
+Lec 8
+: **贪心算法(Greedy Approach)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/slides/AlgoLec8-handout.pdf)\]
+
+Lec 9
+: **动态规划(Dynamic Programming)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/slides/AlgoLec9-handout.pdf)\]

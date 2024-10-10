@@ -17,3 +17,7 @@ HW 3
 :  **PA**{: .label .label-blue } Released: [LeetCode #240-搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) 
 :  **DUE**{: .label .label-yellow} Oct 9
 
+HW 4
+:  **HW**{: .label .label-red }Released: [Homework #4-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw4-noblank.pdf) &nbsp; [Homework #4-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw4-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #4-寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) 
+:  **DUE**{: .label .label-yellow} Oct 9

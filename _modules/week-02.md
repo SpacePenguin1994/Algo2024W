@@ -20,4 +20,9 @@ HW 3
 HW 4
 :  **HW**{: .label .label-red }Released: [Homework #4-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw4-noblank.pdf) &nbsp; [Homework #4-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw4-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #4-寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) 
-:  **DUE**{: .label .label-yellow} Oct 9
+:  **DUE**{: .label .label-yellow} Oct 18
+
+HW 5
+:  **HW**{: .label .label-red }Released: [Homework #5-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw5-noblank.pdf) &nbsp; [Homework #5-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw5-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #1579-保证图可完全遍历](https://leetcode.cn/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) 
+:  **DUE**{: .label .label-yellow} <font color="#dd0000">Oct 23(可能延迟到10月25日，详情见首页课程通知说明)</font>

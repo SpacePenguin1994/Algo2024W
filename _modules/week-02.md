@@ -26,3 +26,8 @@ HW 5
 :  **HW**{: .label .label-red }Released: [Homework #5-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw5-noblank.pdf) &nbsp; [Homework #5-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw5-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #1579-保证图可完全遍历](https://leetcode.cn/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) 
 :  **DUE**{: .label .label-yellow} <font color="#dd0000">Oct 23(可能延迟到10月25日，详情见首页课程通知说明)</font>
+
+HW 6
+:  **HW**{: .label .label-red }Released: [Homework #6-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw6-noblank.pdf) &nbsp; [Homework #6-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw6-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #2192-有向无环图中一个节点的所有祖先](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) 
+:  **DUE**{: .label .label-yellow} Oct 30

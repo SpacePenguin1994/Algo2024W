@@ -20,6 +20,7 @@ HW 3
 HW 4
 :  **HW**{: .label .label-red }Released: [Homework #4-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw4-noblank.pdf) &nbsp; [Homework #4-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw4-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #4-寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) 
+:  **PA**{: .label .label-blue } Notes: [$O(\log \min(m+n))$算法的解释](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Median.pdf) 
 :  **DUE**{: .label .label-yellow} Oct 18
 
 HW 5

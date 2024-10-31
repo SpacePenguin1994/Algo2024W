@@ -32,3 +32,8 @@ HW 6
 :  **HW**{: .label .label-red }Released: [Homework #6-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw6-noblank.pdf) &nbsp; [Homework #6-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw6-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #2192-有向无环图中一个节点的所有祖先](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) 
 :  **DUE**{: .label .label-yellow} Oct 30
+
+HW 7
+:  **HW**{: .label .label-red }Released: [Homework #7-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw7-noblank.pdf) &nbsp; [Homework #7-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw7-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #3123-最短路径的边](https://leetcode.cn/problems/find-edges-in-shortest-paths/) 
+:  **DUE**{: .label .label-yellow} Nov 6

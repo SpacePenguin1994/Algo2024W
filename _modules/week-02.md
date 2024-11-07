@@ -37,3 +37,8 @@ HW 7
 :  **HW**{: .label .label-red }Released: [Homework #7-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw7-noblank.pdf) &nbsp; [Homework #7-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw7-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #3123-最短路径的边](https://leetcode.cn/problems/find-edges-in-shortest-paths/) 
 :  **DUE**{: .label .label-yellow} Nov 6
+
+HW 8
+:  **HW**{: .label .label-red }Released: [Homework #8-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw8-noblank.pdf) &nbsp; [Homework #8-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw8-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #53-最大子数组和](https://leetcode.cn/problems/maximum-subarray/) 
+:  **DUE**{: .label .label-yellow} Nov 13

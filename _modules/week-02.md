@@ -42,3 +42,8 @@ HW 8
 :  **HW**{: .label .label-red }Released: [Homework #8-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw8-noblank.pdf) &nbsp; [Homework #8-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw8-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #53-最大子数组和](https://leetcode.cn/problems/maximum-subarray/) 
 :  **DUE**{: .label .label-yellow} Nov 13
+
+HW 9
+:  **HW**{: .label .label-red }Released: [Homework #9-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw9-noblank.pdf) &nbsp; [Homework #9-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw9-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #123-买卖股票的最佳时机III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/) 
+:  **DUE**{: .label .label-yellow} Nov 20

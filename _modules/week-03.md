@@ -22,3 +22,6 @@ HW 6
 
 HW 7
 :  **HW**{: .label .label-red }Released:[Homework #7-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw7sol.pdf)
+
+HW 8
+:  **HW**{: .label .label-red }Released:[Homework #8-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw8sol.pdf)

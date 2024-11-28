@@ -52,3 +52,8 @@ HW 10
 :  **HW**{: .label .label-red }Released: [Homework #10-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw10-noblank.pdf) &nbsp; [Homework #10-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw10-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #188-买卖股票的最佳时机IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) 
 :  **DUE**{: .label .label-yellow} Nov 27
+
+HW 11
+:  **HW**{: .label .label-red }Released: [Homework #11-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw11-noblank.pdf) &nbsp; [Homework #11-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw11-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #51-N皇后](https://leetcode.cn/problems/n-queens/) 
+:  **DUE**{: .label .label-yellow} Dec 4

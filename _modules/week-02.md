@@ -57,3 +57,8 @@ HW 11
 :  **HW**{: .label .label-red }Released: [Homework #11-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw11-noblank.pdf) &nbsp; [Homework #11-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw11-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #51-N皇后](https://leetcode.cn/problems/n-queens/) 
 :  **DUE**{: .label .label-yellow} Dec 4
+
+HW 12
+:  **HW**{: .label .label-red }Released: [Homework #12-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw12-noblank.pdf) &nbsp; [Homework #12-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw12-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #1503-所有蚂蚁掉下来前的最后一刻](https://leetcode.cn/problems/last-moment-before-all-ants-fall-out-of-a-plank/) 
+:  **DUE**{: .label .label-yellow} Dec 11

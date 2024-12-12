@@ -62,3 +62,7 @@ HW 12
 :  **HW**{: .label .label-red }Released: [Homework #12-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw12-noblank.pdf) &nbsp; [Homework #12-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw12-blank.pdf)
 :  **PA**{: .label .label-blue } Released: [LeetCode #1503-所有蚂蚁掉下来前的最后一刻](https://leetcode.cn/problems/last-moment-before-all-ants-fall-out-of-a-plank/) 
 :  **DUE**{: .label .label-yellow} Dec 11
+
+HW 13
+:  **HW**{: .label .label-red }Released: [Homework #13-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw13-noblank.pdf) &nbsp; [Homework #13-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/homework/Algo-hw13-blank.pdf)
+:  **PA**{: .label .label-blue } Released: [LeetCode #483-最小好进制](https://leetcode.cn/problems/smallest-good-base/)

@@ -52,3 +52,8 @@ Lec 11
 : **网络流(Network Flow)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/slides/AlgoLec11-handout.pdf)\]
 
+Lec 12
+: **线性规划介绍(An Introduction to Linear Programming)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2024w/slides/AlgoLec12-handout.pdf)\]
+
+

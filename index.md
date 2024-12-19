@@ -44,6 +44,10 @@ seo:
 
 欢迎大家提出关于本课程的问题或建议。
 
+## 之前的课程资料
+
+- [2023年秋季学期](https://www.algo2023w.spacepenguin.com.cn)
+  
 
 
 ## 课程通知
@@ -52,7 +56,3 @@ seo:
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
-
-## 之前的课程资料
-
-- [2023年秋季学期](https://www.algo2023w.spacepenguin.com.cn)
